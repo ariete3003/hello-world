@@ -1,5 +1,3 @@
 # hello-world
 
-Hi humans!
-
-I've had tacos on the moon and find them far superior to Earth tacos. :P
+Programs are like women, no matter how much you get mad because of errors, you are always the one who is wrong.
